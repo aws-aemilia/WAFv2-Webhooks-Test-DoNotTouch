@@ -4,7 +4,7 @@ frontend:
     build:
       commands:
         - echo $PATH
-        - nvm use 14
+        - nvm use 20
         - echo $PATH
         - yarn version
         - which yarn
